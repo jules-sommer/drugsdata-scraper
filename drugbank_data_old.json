@@ -1,0 +1,2385 @@
+[
+  {
+    "smiles": "CC(=C)[C@@H]1CC[C@@](C)(C=C)[C@@H](C1)C(C)=C",
+    "molecule": "(-)-beta-Elemene",
+    "iupac_name": "",
+    "summary": null,
+    "weight": "204.357",
+    "formula": "C15H24",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB18097",
+    "type": "Small Molecule",
+    "groups": "Investigational",
+    "synonyms": [
+      ".beta.-elemene",
+      "(-)-.beta.-elemene",
+      "(-)-B-elemene",
+      "(-)-beta-Elemene",
+      "Cyclohexane, 1-ethenyl-1-methyl-2,4-bis(1-methylethenyl)-, (1s,2s,4r)-",
+      "Elemene, (-)-.beta.-"
+    ],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": []
+  },
+  {
+    "smiles": "[H]C(C)(O)COC(=O)O[C@]1([H])C[C@]([H])(C)CC[C@@]1([H])C(C)C",
+    "molecule": "(-)-menthol 1-propylene glycol carbonate",
+    "iupac_name": "1-[({[(1R,2S,5R)-5-methyl-2-(propan-2-yl)cyclohexyl]oxy}carbonyl)oxy]propan-2-ol",
+    "summary": null,
+    "weight": "258.358",
+    "formula": "C14H26O4",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB14136",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [
+      "(-)-menthol (+/-)-1-propylene glycol carbonate",
+      "2-hydroxypropyl ((1R,2S,5R)-2-isopropyl-5-methyl-cyclohexyl) carbonate",
+      "Carbonic acid, 2-hydroxypropyl (1R,2S,5R)-5-methyl-2-(1-methylethyl)cyclohexyl ester",
+      "Fema no. 3806, 1-propylene glycol carbonate"
+    ],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": []
+  },
+  {
+    "smiles": "OC(=O)CO\\N=C1/C2=CC=CCC2=N/C/1=C1\\C(=O)N=C2CC=CC=C12",
+    "molecule": "({[(3E)-2'-Oxo-2',7'-dihydro-2,3'-biindol-3(7H)-ylidene]amino}oxy)acetic acid",
+    "iupac_name": "2-({[(Z,3E)-2'-oxo-3,7-dihydro-2'H,7'H-[2,3'-biindolyliden]-3-ylidene]amino}oxy)acetic acid",
+    "summary": null,
+    "weight": "335.3135",
+    "formula": "C18H13N3O4",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB07949",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UGlycogen phosphorylase, muscle form",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "CC[C@@H](C1=CC(NC(=O)CNC(=O)OC(C)(C)C)=CC=C1)C1=C(O)C2=CC=CC=C2OC1=O",
+    "molecule": "({3-[1-(4-Hydroxy-2-oxo-2H-chromen-3-yl)-propyl]-phenylcarbamoyl}-methyl)-carbamic acid tert-butyl ester",
+    "iupac_name": "tert-butyl N-[({3-[(1S)-1-(4-hydroxy-2-oxo-2H-chromen-3-yl)propyl]phenyl}carbamoyl)methyl]carbamate",
+    "summary": null,
+    "weight": "452.4996",
+    "formula": "C25H28N2O6",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB08664",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [
+      "tert-butyl N-[({3-[(1S)-1-(4-hydroxy-2-oxo-2H-chromen-3-yl)propyl]phenyl}carbamoyl)methyl]carbamate"
+    ],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UGag-Pol polyprotein",
+        "Actions": "Not Available",
+        "Organism": "HIV-2"
+      }
+    ]
+  },
+  {
+    "smiles": "C[C@H](O)CBr",
+    "molecule": "(+)-1-bromo-2-propanol",
+    "iupac_name": "(2S)-1-bromopropan-2-ol",
+    "summary": null,
+    "weight": "138.991",
+    "formula": "C3H7BrO",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB03335",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [
+      "(S)-(+)-1-Bromo-2-propanol"
+    ],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UHaloalkane dehalogenase",
+        "Actions": "Not Available",
+        "Organism": "Pseudomonas paucimobilis"
+      }
+    ]
+  },
+  {
+    "smiles": "C[C@H](C(O)=O)C1=CC=C(C=C1)C1=CC=CC=C1",
+    "molecule": "(+)-2-(4-biphenyl)propionic acid",
+    "iupac_name": "(2S)-2-{[1,1'-biphenyl]-4-yl}propanoic acid",
+    "summary": null,
+    "weight": "226.2705",
+    "formula": "C15H14O2",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB02047",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [
+      "(2S)-2-(4-Biphenylyl)propanoic acid",
+      "2-(1,1'-biphenyl-4-yl)propanoic acid"
+    ],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UProstaglandin G/H synthase 1",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "CC(C)[C@H]1CC[C@H](C)C[C@@H]1O",
+    "molecule": "(+)-menthol",
+    "iupac_name": "(1S,2R,5S)-5-methyl-2-(propan-2-yl)cyclohexan-1-ol",
+    "summary": null,
+    "weight": "156.269",
+    "formula": "C10H20O",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB11344",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [
+      "(+)-(1S,2R,5S)-menthol",
+      "(+)-(1S,3S,4R)-menthol",
+      "(1S,2R,5S)-(+)-menthol",
+      "(1S,2R,5S)-menthol",
+      "D-menthol"
+    ],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": []
+  },
+  {
+    "smiles": "CC(C)(O)[C@@H]1CC2=C(O1)C=C1OC(=O)C(=CC1=C2)C(C)(C)C=C",
+    "molecule": "(+)-Rutamarin alcohol",
+    "iupac_name": "(2S)-2-(2-hydroxypropan-2-yl)-6-(2-methylbut-3-en-2-yl)-2H,3H,7H-furo[3,2-g]chromen-7-one",
+    "summary": null,
+    "weight": "314.3756",
+    "formula": "C19H22O4",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB02205",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [
+      "(+)-Chalepin"
+    ],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UGlyceraldehyde-3-phosphate dehydrogenase, testis-specific",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      },
+      {
+        "Target": "UGlyceraldehyde-3-phosphate dehydrogenase, glycosomal",
+        "Actions": "Not Available",
+        "Organism": "Trypanosoma cruzi"
+      }
+    ]
+  },
+  {
+    "smiles": "COC1=CC2=C(C=C1)N(CC1=CC=CC=C1)C(C)=C2CC(O)=O",
+    "molecule": "(1-Benzyl-5-methoxy-2-methyl-1H-indol-3-yl)acetic acid",
+    "iupac_name": "2-(1-benzyl-5-methoxy-2-methyl-1H-indol-3-yl)acetic acid",
+    "summary": null,
+    "weight": "309.3591",
+    "formula": "C19H19NO3",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB03121",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UPhospholipase A2, membrane associated",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "OC(CC1=CC=CC(=C1)C1=CC=C(C=C1)C1=CC=CC=C1)(P(O)(O)=O)P(O)(O)=O",
+    "molecule": "(1-HYDROXY-1-PHOSPHONO-2-[1,1';4',1'']TERPHENYL-3-YL-ETHYL)-PHOSPHONIC ACID",
+    "iupac_name": "(1-hydroxy-2-{4'-phenyl-[1,1'-biphenyl]-3-yl}-1-phosphonoethyl)phosphonic acid",
+    "summary": null,
+    "weight": "434.3161",
+    "formula": "C20H20O7P2",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB07409",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UDitrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)",
+        "Actions": "Not Available",
+        "Organism": "Escherichia coli (strain K12)"
+      }
+    ]
+  },
+  {
+    "smiles": "ON1CCCC(C1=O)P(O)(O)=O",
+    "molecule": "(1-Hydroxy-2-oxopiperidin-3-yl)phosphonic acid",
+    "iupac_name": "(1-hydroxy-2-oxopiperidin-3-yl)phosphonic acid",
+    "summary": null,
+    "weight": "195.111",
+    "formula": "C5H10NO5P",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB17108",
+    "type": "Small Molecule",
+    "groups": "Investigational",
+    "synonyms": [
+      "Phosphonic acid, p-(1-hydroxy-2-oxo-3-piperidinyl)-"
+    ],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": []
+  },
+  {
+    "smiles": "CCCCCCC(O)(P(O)(O)=O)P(O)(O)=O",
+    "molecule": "(1-HYDROXYHEPTANE-1,1-DIYL)BIS(PHOSPHONIC ACID)",
+    "iupac_name": "(1-hydroxy-1-phosphonoheptyl)phosphonic acid",
+    "summary": null,
+    "weight": "276.1611",
+    "formula": "C7H18O7P2",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB06830",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UGeranylgeranyl pyrophosphate synthase",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "CCCCCCCCC(O)(P(O)(O)=O)P(O)(O)=O",
+    "molecule": "(1-HYDROXYNONANE-1,1-DIYL)BIS(PHOSPHONIC ACID)",
+    "iupac_name": "(1-hydroxy-1-phosphonononyl)phosphonic acid",
+    "summary": null,
+    "weight": "304.2143",
+    "formula": "C9H22O7P2",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB06931",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UGeranylgeranyl pyrophosphate synthase",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "CN1C=CN=C1C(=O)C1=C(C)C2=C(O1)C=CC=C2OCCCNCC1=CN=CC=C1",
+    "molecule": "(1-Methyl-1h-Imidazol-2-Yl)-(3-Methyl-4-{3-[(Pyridin-3-Ylmethyl)-Amino]-Propoxy}-Benzofuran-2-Yl)-Methanone",
+    "iupac_name": "(3-{[3-methyl-2-(1-methyl-1H-imidazole-2-carbonyl)-1-benzofuran-4-yl]oxy}propyl)[(pyridin-3-yl)methyl]amine",
+    "summary": null,
+    "weight": "404.4617",
+    "formula": "C23H24N4O3",
+    "description": "Not Available",
+    "categories": [
+      "Dietary Supplements / Supplements"
+    ],
+    "link": "https://go.drugbank.com/drugs/DB03062",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UGlycylpeptide N-tetradecanoyltransferase 1",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      },
+      {
+        "Target": "UGlycylpeptide N-tetradecanoyltransferase",
+        "Actions": "Not Available",
+        "Organism": "Yeast"
+      }
+    ]
+  },
+  {
+    "smiles": "[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])C([3H])C([3H])C2=CC(=O)C([3H])C([3H])[C@]12C",
+    "molecule": "(1,2,6,7-3H)Testosterone",
+    "iupac_name": "(1S,3aS,3bR,9aR,9bS,11aS)-1-hydroxy-9a,11a-dimethyl(4,5,8,9-3H4)-1H,2H,3H,3aH,3bH,4H,5H,7H,8H,9H,9aH,9bH,10H,11H,11aH-cyclopenta[a]phenanthren-7-one",
+    "summary": null,
+    "weight": "296.463",
+    "formula": "C19H28O2",
+    "description": "Not Available",
+    "categories": [
+      "Testosterone and derivatives"
+    ],
+    "link": "https://go.drugbank.com/drugs/DB14093",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [
+      "Testosterone, 1,2,6,7-H-3"
+    ],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": []
+  },
+  {
+    "smiles": "NC1=NC=NC2=C1N=CN2[C@@H]1C=C[C@H](O)[C@H]1O",
+    "molecule": "(1'R,2'S)-9-(2-Hydroxy-3'-Keto-Cyclopenten-1-yl)Adenine",
+    "iupac_name": "(1S,2S,5R)-5-(6-amino-9H-purin-9-yl)cyclopent-3-ene-1,2-diol",
+    "summary": null,
+    "weight": "233.2266",
+    "formula": "C10H11N5O2",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB03216",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UAdenosylhomocysteinase",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "CCCCC\\C=C/C=C/CCCCCCCCC(O)=O",
+    "molecule": "(10E,12Z)-octadecadienoic acid",
+    "iupac_name": "(10E,12Z)-octadeca-10,12-dienoic acid",
+    "summary": null,
+    "weight": "280.4455",
+    "formula": "C18H32O2",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB04746",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [
+      "(10E,12Z)-octadeca-10,12-dienoic acid",
+      "(E,Z)-octadeca-10,12-dienoic acid",
+      "10-trans-12-cis-CLA",
+      "10-trans-12-cis-conjugated linoleic acid",
+      "10-trans-12-cis-linoleic acid",
+      "10-trans-12-cis-octadecadienoic acid",
+      "10,12-trans,cis-octadecanoic acid",
+      "C18:2, n-6,8 cis,trans"
+    ],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UPutative aminooxidase",
+        "Actions": "Not Available",
+        "Organism": "Propionibacterium acnes"
+      }
+    ]
+  },
+  {
+    "smiles": "[H]N([H])C1=NC(=O)C2=C(C=CC(C[C@@H](C(O)=O)C3=CC=C(C=C3)C(=O)N([H])[C@@H](CCC(O)=O)C(O)=O)=C2)N1[H]",
+    "molecule": "(10R)-10-formyl-5,8,10-trideazafolic acid",
+    "iupac_name": "(2S)-2-({4-[(1R)-2-(2-amino-4-oxo-1,4-dihydroquinazolin-6-yl)-1-carboxyethyl]phenyl}formamido)pentanedioic acid",
+    "summary": null,
+    "weight": "482.4428",
+    "formula": "C23H22N4O8",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB04264",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UPhosphoribosylglycinamide formyltransferase",
+        "Actions": "Not Available",
+        "Organism": "Escherichia coli (strain K12)"
+      }
+    ]
+  },
+  {
+    "smiles": "[H][C@@]1(C)CNC2=C(SC3=C2C2=C(C=C3)N=C(C=C2)C2=CN=C(C)C=C2)C(=O)N1",
+    "molecule": "(10R)-10-methyl-3-(6-methylpyridin-3-yl)-9,10,11,12-tetrahydro-8H-[1,4]diazepino[5',6':4,5]thieno[3,2-f]quinolin-8-one",
+    "iupac_name": "(15R)-15-methyl-5-(6-methylpyridin-3-yl)-11-thia-6,14,17-triazatetracyclo[8.8.0.0^{2,7}.0^{12,18}]octadeca-1(10),2(7),3,5,8,12(18)-hexaen-13-one",
+    "summary": null,
+    "weight": "374.459",
+    "formula": "C21H18N4OS",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB07430",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UMAP kinase-activated protein kinase 2",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "[H][C@]1(N(C(C)=O)C2=CC=CC(O)=C2NC2=C1C(=O)CC(C)(C)C2)C1=C(Cl)C=C(Cl)C=C1",
+    "molecule": "(11R)-10-acetyl-11-(2,4-dichlorophenyl)-6-hydroxy-3,3-dimethyl-2,3,4,5,10,11-hexahydro-1H-dibenzo[b,e][1,4]diazepin-1-one",
+    "iupac_name": "(10R)-9-acetyl-10-(2,4-dichlorophenyl)-4-hydroxy-14,14-dimethyl-2,9-diazatricyclo[9.4.0.0^{3,8}]pentadeca-1(11),3,5,7-tetraen-12-one",
+    "summary": null,
+    "weight": "445.338",
+    "formula": "C23H22Cl2N2O3",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB08747",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UGenome polyprotein",
+        "Actions": "Not Available",
+        "Organism": ""
+      }
+    ]
+  },
+  {
+    "smiles": "[H][C@]1(C2CCN(CC2)S(C)(=O)=O)C2=C(C=C(Cl)C=C2)C(=CC2=C1N=CC=C2)N1CCNCC1",
+    "molecule": "(11S)-8-CHLORO-11-[1-(METHYLSULFONYL)PIPERIDIN-4-YL]-6-PIPERAZIN-1-YL-11H-BENZO[5,6]CYCLOHEPTA[1,2-B]PYRIDINE",
+    "iupac_name": "(2S)-13-chloro-2-(1-methanesulfonylpiperidin-4-yl)-10-(piperazin-1-yl)-4-azatricyclo[9.4.0.0^{3,8}]pentadeca-1(11),3(8),4,6,9,12,14-heptaene",
+    "summary": null,
+    "weight": "473.031",
+    "formula": "C24H29ClN4O2S",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB07216",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UProtein farnesyltransferase/geranylgeranyltransferase type-1 subunit alpha",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      },
+      {
+        "Target": "UProtein farnesyltransferase subunit beta",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "CC\\C=C/C\\C=C/C[C@@H](O)\\C=C\\C=C/C\\C=C/CCCC(O)=O",
+    "molecule": "(12R)-12-hydroxyeicosapentaenoic acid",
+    "iupac_name": "(5Z,8Z,10E,12R,14Z,17Z)-12-hydroxyicosa-5,8,10,14,17-pentaenoic acid",
+    "summary": null,
+    "weight": "318.457",
+    "formula": "C20H30O3",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB15571",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": []
+  },
+  {
+    "smiles": "[H][C@]12CN(CCN3NC4=C(C=CC=C4C3=O)C3=NC4=C(NC3=O)C=CC=C4O1)[C@]([H])(C)C2",
+    "molecule": "(13R,15S)-13-METHYL-16-OXA-8,9,12,22,24-PENTAAZAHEXACYCLO[15.6.2.16,9.1,12,15.0,2,7.0,21,25]HEPTACOSA-1(24),2,4,6,17(25),18,20-HEPTAENE-23,26-DIONE",
+    "iupac_name": "(13R,15S)-13-methyl-16-oxa-8,9,12,22,24-pentaazahexacyclo[15.6.2.1^{6,9}.1^{12,15}.0^{2,7}.0^{21,25}]heptacosa-1(24),2(7),3,5,17,19,21(25)-heptaene-23,27-dione",
+    "summary": null,
+    "weight": "403.4338",
+    "formula": "C22H21N5O3",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB06888",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UCyclin-dependent kinase 2",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "[H][C@]1(CC#N)CC[C@@]2([H])[C@]3([H])CCC4=CC(OS(N)(=O)=O)=C(OC)C=C4[C@@]3([H])CC[C@]12C",
+    "molecule": "(17beta)-17-(cyanomethyl)-2-methoxyestra-1(10),2,4-trien-3-yl sulfamate",
+    "iupac_name": "(1R,3aS,3bS,9bS,11aR)-1-(cyanomethyl)-8-methoxy-11a-methyl-1H,2H,3H,3aH,3bH,4H,5H,9bH,10H,11H,11aH-cyclopenta[a]phenanthren-7-yl sulfamate",
+    "summary": null,
+    "weight": "404.523",
+    "formula": "C21H28N2O4S",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB07596",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UCarbonic anhydrase 2",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "O\\N=C1/CCC2=CC(=CC=C12)C1=CN(N=C1C1=CC=NC=C1)C1CCNCC1",
+    "molecule": "(1E)-5-(1-piperidin-4-yl-3-pyridin-4-yl-1H-pyrazol-4-yl)-2,3-dihydro-1H-inden-1-one oxime",
+    "iupac_name": "N-[(1E)-5-[1-(piperidin-4-yl)-3-(pyridin-4-yl)-1H-pyrazol-4-yl]-2,3-dihydro-1H-inden-1-ylidene]hydroxylamine",
+    "summary": null,
+    "weight": "373.4509",
+    "formula": "C22H23N5O",
+    "description": "(1E)-5-(1-piperidin-4-yl-3-pyridin-4-yl-1h-pyrazol-4-yl)-2,3-dihydro-1h-inden-1-one oxime is a solid. This compound belongs to the phenylpyrazoles. These are compounds containing a phenylpyrazole skeleton, which consists of a pyrazole bound to a phenyl group. It targets the protein serine/threonine-protein kinase B-raf.",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB08553",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "USerine/threonine-protein kinase B-raf",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "[H][C@](NOCCS)(C(O)=O)C1=CNC2=C1C=CC=C2",
+    "molecule": "(1H-indol-3-yl)-(2-mercapto-ethoxyimino)-acetic acid",
+    "iupac_name": "(2R)-2-(1H-indol-3-yl)-2-[(2-sulfanylethoxy)amino]acetic acid",
+    "summary": null,
+    "weight": "266.316",
+    "formula": "C12H14N2O3S",
+    "description": "(1H-indol-3-yl)-(2-mercapto-ethoxyimino)-acetic acid is a solid. This compound belongs to the indole-3-acetic acid derivatives. These are compounds containing an acetic acid (or a derivative) linked to the C3 carbon atom of an indole. (1H-indol-3-yl)-(2-mercapto-ethoxyimino)-acetic acid is known to target interleukin-2.",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB03455",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UInterleukin-2",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "CCCCOC1=CC=C(C=C1)S(=O)(=O)N1C[C@H](C[C@@H]1C(=O)NO)NS(C)(=O)=O",
+    "molecule": "(1n)-4-N-Butoxyphenylsulfonyl-(2r)-N-Hydroxycarboxamido-(4s)-Methanesulfonylamino-Pyrrolidine",
+    "iupac_name": "(2R,4S)-1-(4-butoxybenzenesulfonyl)-N-hydroxy-4-methanesulfonamidopyrrolidine-2-carboxamide",
+    "summary": null,
+    "weight": "435.516",
+    "formula": "C16H25N3O7S2",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB02367",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UStromelysin-1",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "[H][C@]1(O)C=CC2=C(C=CC=C2)[C@@]1([H])O",
+    "molecule": "(1R, 2S)-cis 1,2 dihydroxy-1,2-dihydronaphthalene",
+    "iupac_name": "(1R,2S)-1,2-dihydronaphthalene-1,2-diol",
+    "summary": null,
+    "weight": "162.1852",
+    "formula": "C10H10O2",
+    "description": "(1R, 2S)-cis 1,2 dihydroxy-1,2-dihydronaphthalene is a solid. This compound belongs to the naphthalenes. These are compounds containing a naphthalene moiety, which consists of two fused benzene rings. Known drug targets of (1R, 2S)-cis 1,2 dihydroxy-1,2-dihydronaphthalene include naphthalene 1,2-dioxygenase subunit beta and naphthalene 1,2-dioxygenase subunit alpha.",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB08264",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UNaphthalene 1,2-dioxygenase subunit alpha",
+        "Actions": "Not Available",
+        "Organism": "Pseudomonas putida"
+      },
+      {
+        "Target": "UNaphthalene 1,2-dioxygenase subunit beta",
+        "Actions": "Not Available",
+        "Organism": "Pseudomonas putida"
+      }
+    ]
+  },
+  {
+    "smiles": "[H]N(CC1=CC=CC=C1)[C@H]1[C@@H](O)[C@@H](O)[C@@H](O)[C@]1([H])SC",
+    "molecule": "(1R,2R,3R,4S,5R)-4-(Benzylamino)-5-(methylthio)cyclopentane-1,2,3-triol",
+    "iupac_name": "(1R,2R,3R,4S,5R)-4-(benzylamino)-5-(methylsulfanyl)cyclopentane-1,2,3-triol",
+    "summary": null,
+    "weight": "269.36",
+    "formula": "C13H19NO3S",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB06984",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [
+      "Benzylation of mannostatin A, 1b"
+    ],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UAlpha-mannosidase 2",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "OCC(=O)COP(O)(=O)OC1[C@H](O)[C@H](O)[C@@H](OP(O)(O)=O)[C@H](OP(O)(O)=O)[C@H]1O",
+    "molecule": "(1R,2R,3S,4R,6S)-3,4,6-Trihydroxy-5-{[(S)-hydroxy(3-hydroxy-2-oxopropoxy)phosphoryl]oxy}-1,2-cyclohexanediyl bis[dihydrogen (phosphate)]",
+    "iupac_name": "{[(1R,2S,3R,5S,6R)-2,3,5-trihydroxy-4-{[hydroxy(3-hydroxy-2-oxopropoxy)phosphoryl]oxy}-6-(phosphonooxy)cyclohexyl]oxy}phosphonic acid",
+    "summary": null,
+    "weight": "492.1582",
+    "formula": "C9H19O17P3",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB02028",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UTubby protein homolog",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "NC[C@@H]1O[C@H](O[C@@H]2[C@@H](CO)O[C@@H](O[C@@H]3[C@@H](O)[C@H](N)C[C@H](N)[C@H]3O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3N)[C@@H]2OCCNCC2CCCNC2)[C@H](N)[C@@H](O)[C@@H]1O",
+    "molecule": "(1R,2R,3S,4R,6S)-4,6-diamino-2-{[3-O-(2,6-diamino-2,6-dideoxy-beta-L-idopyranosyl)-2-O-{2-[(piperidin-3-ylmethyl)amino]ethyl}-beta-D-ribofuranosyl]oxy}-3-hydroxycyclohexyl 2-amino-2-deoxy-alpha-D-glucopyranoside",
+    "iupac_name": "(2R,3S,4R,5R,6S)-5-amino-6-{[(1R,2R,3S,4R,6S)-4,6-diamino-2-{[(2S,3R,4R,5R)-4-{[(2R,3R,4R,5S,6S)-3-amino-6-(aminomethyl)-4,5-dihydroxyoxan-2-yl]oxy}-5-(hydroxymethyl)-3-(2-{[(piperidin-3-yl)methyl]amino}ethoxy)oxolan-2-yl]oxy}-3-hydroxycyclohexyl]oxy}-2-(hydroxymethyl)oxane-3,4-diol",
+    "summary": null,
+    "weight": "755.8545",
+    "formula": "C31H61N7O14",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB04718",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [
+      "(1R,2R,3S,4R,6S)-4,6-diamino-2-{[3-O-(2,6-diamino-2,6-dideoxy-β-L-idopyranosyl)-2-O-{2-[(piperidin-3-ylmethyl)amino]ethyl}-β-D-ribofuranosyl]oxy}-3-hydroxycyclohexyl 2-amino-2-deoxy-α-D-glucopyranoside"
+    ],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": []
+  },
+  {
+    "smiles": "[H][C@@]1(CS(=O)(=O)C2=CC=C(OC)C=C2)CCCC[C@@]1([H])C(=O)NCCN",
+    "molecule": "(1R,2R)-N-(2-Aminoethyl)-2-{[(4-methoxyphenyl)sulfonyl]methyl}cyclohexanecarboxamide",
+    "iupac_name": "(1R,2R)-N-(2-aminoethyl)-2-[(4-methoxybenzenesulfonyl)methyl]cyclohexane-1-carboxamide",
+    "summary": null,
+    "weight": "354.464",
+    "formula": "C17H26N2O4S",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB08287",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UCathepsin K",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "[H][C@]1(CCCC[C@]1([H])C1=NNC(=S)N1)C(O)=O",
+    "molecule": "(1R,2S)-2-(5-thioxo-4,5-dihydro-1H-1,2,4-triazol-3-yl)cyclohexanecarboxylic acid",
+    "iupac_name": "(1R,2S)-2-(5-sulfanylidene-4,5-dihydro-1H-1,2,4-triazol-3-yl)cyclohexane-1-carboxylic acid",
+    "summary": null,
+    "weight": "227.283",
+    "formula": "C9H13N3O2S",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB07850",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UBeta-lactamase",
+        "Actions": "Not Available",
+        "Organism": "Escherichia coli (strain K12)"
+      }
+    ]
+  },
+  {
+    "smiles": "[NH3+][C@@H]1C[C@H]1C1=CC=CC=C1",
+    "molecule": "(1R,2S)-2-Phenylcyclopropanaminium",
+    "iupac_name": "(1R,2S)-2-phenylcyclopropan-1-aminium",
+    "summary": null,
+    "weight": "134.1983",
+    "formula": "C9H12N",
+    "description": "A propylamine formed from the cyclization of the side chain of amphetamine. This monoamine oxidase inhibitor is effective in the treatment of major depression, dysthymic disorder, and atypical depression. It also is useful in panic and phobic disorders. (From AMA Drug Evaluations Annual, 1994, p311)",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB02665",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [
+      "(1R,2S)-tranylcypromine(1+)"
+    ],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UTrypsin-1",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "[H][C@]1(CC[C@](C)(CCC#CC(O)(C(F)(F)F)C(F)(F)F)C1(C)C)\\C=C\\C=C1C[C@](O)([H])C[C@@](O)([H])C1",
+    "molecule": "(1R,3R)-5-[(2E)-3-{(1S,3R)-2,2,3-trimethyl-3-[6,6,6-trifluoro-5-hydroxy-5-(trifluoromethyl)hex-3-yn-1-yl]cyclopentyl}prop-2-en-1-ylidene]cyclohexane-1,3-diol",
+    "iupac_name": "(1R,3R)-5-[(2E)-3-[(1S,3R)-2,2,3-trimethyl-3-[6,6,6-trifluoro-5-hydroxy-5-(trifluoromethyl)hex-3-yn-1-yl]cyclopentyl]prop-2-en-1-ylidene]cyclohexane-1,3-diol",
+    "summary": null,
+    "weight": "482.4995",
+    "formula": "C24H32F6O3",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB07530",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UNuclear receptor coactivator 1",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      },
+      {
+        "Target": "UVitamin D3 receptor",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "[H][C@]1(NC(C(O)=O)=C2[C@]1([H])CCC[C@]2([H])OC)C(=C/C)\\C=O",
+    "molecule": "(1R,4S,7AS)-1-(1-FORMYLPROP-1-EN-1-YL)-4-METHOXY-2,4,5,6,7,7A-HEXAHYDRO-1H-ISOINDOLE-3-CARBOXYLIC ACID",
+    "iupac_name": "(1R,4S,7aS)-4-methoxy-1-[(2E)-1-oxobut-2-en-2-yl]-2,4,5,6,7,7a-hexahydro-1H-isoindole-3-carboxylic acid",
+    "summary": null,
+    "weight": "265.305",
+    "formula": "C14H19NO4",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB08110",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UBeta-lactamase",
+        "Actions": "Not Available",
+        "Organism": "Enterobacter cloacae"
+      }
+    ]
+  },
+  {
+    "smiles": "[H][C@@]12CC[C@@](C)(NC1)C2(C)C",
+    "molecule": "(1r,4s)-2-Azabornane",
+    "iupac_name": "(1R,4S)-1,7,7-trimethyl-2-azabicyclo[2.2.1]heptane",
+    "summary": null,
+    "weight": "139.238",
+    "formula": "C9H17N",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB02409",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": []
+  },
+  {
+    "smiles": "[H][C@@](NC(=O)CC1=CC=CS1)(B(O)O)C1=CC=CC=C1",
+    "molecule": "(1R)-1-(2-thienylacetylamino)-1-phenylmethylboronic acid",
+    "iupac_name": "[(R)-phenyl[2-(thiophen-2-yl)acetamido]methyl]boronic acid",
+    "summary": null,
+    "weight": "275.131",
+    "formula": "C13H14BNO3S",
+    "description": "(1R)-1-(2-thienylacetylamino)-1-phenylmethylboronic acid is a solid. This compound belongs to the benzenes and substituted derivatives. These are aromatic compounds containing at least one benzene ring. This medication targets the protein beta-lactamase.",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB08552",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UBeta-lactamase",
+        "Actions": "Not Available",
+        "Organism": "Escherichia coli (strain K12)"
+      }
+    ]
+  },
+  {
+    "smiles": "COC1=CC=C(C=C1)C1=CC=C(C=C1)S(=O)(=O)N[C@@H](C(C)C)P(O)(O)=O",
+    "molecule": "(1R)-1-{[(4'-methoxy-1,1'-biphenyl-4-yl)sulfonyl]amino}-2-methylpropylphosphonic acid",
+    "iupac_name": "[(1R)-1-{4'-methoxy-[1,1'-biphenyl]-4-sulfonamido}-2-methylpropyl]phosphonic acid",
+    "summary": null,
+    "weight": "399.398",
+    "formula": "C17H22NO6PS",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB07772",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UNeutrophil collagenase",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "[H][C@](C)(O[P@]([H])(C)=O)C(C)(C)C",
+    "molecule": "(1R)-1,2,2-trimethylpropyl (R)-methylphosphinate",
+    "iupac_name": "(2R)-3,3-dimethylbutan-2-yl methylphosphinate",
+    "summary": null,
+    "weight": "164.1824",
+    "formula": "C7H17O2P",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB07821",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "ULiver carboxylesterase 1",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      },
+      {
+        "Target": "UPlatelet-activating factor acetylhydrolase IB subunit gamma",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      },
+      {
+        "Target": "UPlatelet-activating factor acetylhydrolase",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "[H][C@@](CS(=O)(=O)CC1=C(OC(F)F)C=CC=C1)(OC(=O)N1CCOCC1)C(=O)NCC#N",
+    "molecule": "(1R)-2-[(CYANOMETHYL)AMINO]-1-({[2-(DIFLUOROMETHOXY)BENZYL]SULFONYL}METHYL)-2-OXOETHYL MORPHOLINE-4-CARBOXYLATE",
+    "iupac_name": "(1R)-1-[(cyanomethyl)carbamoyl]-2-{[2-(difluoromethoxy)phenyl]methanesulfonyl}ethyl morpholine-4-carboxylate",
+    "summary": null,
+    "weight": "461.437",
+    "formula": "C18H21F2N3O7S",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB08195",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UCathepsin S",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "[H]N([H])C(=NC[C@H](OC(=O)C1=CN=CC=C1)C1=CC=C(C=C1)B1OC[C@@H](CO)O1)N([H])[H]",
+    "molecule": "(1R)-2-[(Diaminomethylene)amino]-1-{4-[(4R)-4-(hydroxymethyl)-1,3,2-dioxaborolan-2-yl]phenyl}ethyl nicotinate",
+    "iupac_name": "(1R)-2-[(diaminomethylidene)amino]-1-{4-[(4R)-4-(hydroxymethyl)-1,3,2-dioxaborolan-2-yl]phenyl}ethyl pyridine-3-carboxylate",
+    "summary": null,
+    "weight": "384.194",
+    "formula": "C18H21BN4O5",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB07023",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UCoagulation factor XI",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "[H][C@](O)(CN)C1=CC=CC(=C1)C(F)(F)F",
+    "molecule": "(1R)-2-amino-1-[3-(trifluoromethyl)phenyl]ethanol",
+    "iupac_name": "(1R)-2-amino-1-[3-(trifluoromethyl)phenyl]ethan-1-ol",
+    "summary": null,
+    "weight": "205.177",
+    "formula": "C9H10F3NO",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB08129",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UPhenylethanolamine N-methyltransferase",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "[H][C@@](CC1=CC=CC(=C1)C(O)=O)(NC(=O)CC1=CC=CC=C1)B(O)O",
+    "molecule": "(1R)-2-PHENYLACETAMIDO-2-(3-CARBOXYPHENYL)ETHYL BORONIC ACID",
+    "iupac_name": "3-[(2R)-2-(dihydroxyboranyl)-2-(2-phenylacetamido)ethyl]benzoic acid",
+    "summary": null,
+    "weight": "327.14",
+    "formula": "C17H18BNO5",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB07466",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UBeta-lactamase TEM",
+        "Actions": "Not Available",
+        "Organism": "Escherichia coli"
+      }
+    ]
+  },
+  {
+    "smiles": "[H][C@@](O)(CCCl)C1=CC=CC=C1",
+    "molecule": "(1R)-3-chloro-1-phenylpropan-1-ol",
+    "iupac_name": "(1R)-3-chloro-1-phenylpropan-1-ol",
+    "summary": null,
+    "weight": "170.636",
+    "formula": "C9H11ClO",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB06934",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "ULysozyme",
+        "Actions": "Not Available",
+        "Organism": "Enterobacteria phage T4"
+      }
+    ]
+  },
+  {
+    "smiles": "[H][C@@](CCCC1=CC=CC(OC2=CC=CC=C2)=C1)(P(O)(O)=O)S(O)(=O)=O",
+    "molecule": "(1R)-4-(3-phenoxyphenyl)-1-phosphonobutane-1-sulfonic acid",
+    "iupac_name": "(1R)-4-(3-phenoxyphenyl)-1-phosphonobutane-1-sulfonic acid",
+    "summary": null,
+    "weight": "386.357",
+    "formula": "C16H19O7PS",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB07420",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UDehydrosqualene synthase",
+        "Actions": "Not Available",
+        "Organism": "Staphylococcus aureus"
+      }
+    ]
+  },
+  {
+    "smiles": "OC\\C(C)=C\\C=C\\C(\\C)=C/C=C/C=C(/C)\\C=C\\C=C(/C)\\C=C\\C1=C(C)C[C@@H](O)CC1(C)C",
+    "molecule": "(1r)-4-[(1e,3e,5e,7z,9e,11z,13e,15e)-17-Hydroxy-3,7,12,16-Tetramethylheptadeca-1,3,5,7,9,11,13,15-Octaen-1-Yl]-3,5,5-Trimethylcyclohex-3-En-1-Ol",
+    "iupac_name": "(1R)-4-[(1E,3E,5E,7Z,9E,11Z,13E,15E)-17-hydroxy-3,7,12,16-tetramethylheptadeca-1,3,5,7,9,11,13,15-octaen-1-yl]-3,5,5-trimethylcyclohex-3-en-1-ol",
+    "summary": null,
+    "weight": "434.6533",
+    "formula": "C30H42O2",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB02253",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UApocarotenoid-15,15'-oxygenase",
+        "Actions": "Not Available",
+        "Organism": "Synechocystis sp. (strain PCC 6803 / Kazusa)"
+      }
+    ]
+  },
+  {
+    "smiles": "CCCCCCP(O)(=O)O[C@@H]1C[C@H](C)CC[C@H]1C(C)C",
+    "molecule": "(1R)-menthyl hexyl phosphonate group",
+    "iupac_name": "hexyl({[(1R,2S,5R)-5-methyl-2-(propan-2-yl)cyclohexyl]oxy})phosphinic acid",
+    "summary": null,
+    "weight": "304.4052",
+    "formula": "C16H33O3P",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB08200",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UCholinesterase",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "[H][C@]1(N(CCC2=CC(O)=C(OC)C=C12)S(=O)(=O)C1=CC=C(OC)C=C1)C(=O)NO",
+    "molecule": "(1R)-N,6-DIHYDROXY-7-METHOXY-2-[(4-METHOXYPHENYL)SULFONYL]-1,2,3,4-TETRAHYDROISOQUINOLINE-1-CARBOXAMIDE",
+    "iupac_name": "(1R)-N,6-dihydroxy-7-methoxy-2-(4-methoxybenzenesulfonyl)-1,2,3,4-tetrahydroisoquinoline-1-carboxamide",
+    "summary": null,
+    "weight": "408.426",
+    "formula": "C18H20N2O7S",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB08170",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UMatrilysin",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "[H][C@@]12CO[C@@]([H])(N1C(=S)NCCCCCCCC)[C@]([H])(O)[C@@]([H])(O)[C@]2([H])O",
+    "molecule": "(1S,2R,3S,4R,5R)-2,3,4-trihydroxy-N-octyl-6-oxa-8-azabicyclo[3.2.1]octane-8-carbothioamide",
+    "iupac_name": "(1S,2R,3S,4R,5R)-2,3,4-trihydroxy-N-octyl-6-oxa-8-azabicyclo[3.2.1]octane-8-carbothioamide",
+    "summary": null,
+    "weight": "332.459",
+    "formula": "C15H28N2O4S",
+    "description": "(1S,2R,3S,4R,5R)-2,3,4-trihydroxy-N-octyl-6-oxa-8-azabicyclo[3.2.1]octane-8-carbothioamide is a solid. This compound belongs to the oxepanes. These are compounds containing an oxepane ring, which is an a seven-member saturated aliphatic heterocycle with one oxygen and six carbon atoms. This drug targets the protein beta-glucosidase A.",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB08260",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UBeta-glucosidase A",
+        "Actions": "Not Available",
+        "Organism": "Thermotoga maritima (strain ATCC 43589 / MSB8 / DSM 3109 / JCM 10099)"
+      }
+    ]
+  },
+  {
+    "smiles": "[H][C@@]1(CC[C@]([H])(C2=C(F)C=C(F)C(F)=C2)[C@@]([H])(N)C1)N1CCN2C(C1)=NN=C2C(F)(F)F",
+    "molecule": "(1S,2R,5S)-5-[3-(TRIFLUOROMETHYL)-5,6-DIHYDRO[1,2,4]TRIAZOLO[4,3-A]PYRAZIN-7(8H)-YL]-2-(2,4,5-TRIFLUOROPHENYL)CYCLOHEXANAMINE",
+    "iupac_name": "(1S,2R,5S)-5-[3-(trifluoromethyl)-5H,6H,7H,8H-[1,2,4]triazolo[4,3-a]pyrazin-7-yl]-2-(2,4,5-trifluorophenyl)cyclohexan-1-amine",
+    "summary": null,
+    "weight": "419.3674",
+    "formula": "C18H19F6N5",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB07072",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UDipeptidyl peptidase 4",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "[H][C@@]1(C[C@@]1([H])C(=O)NC1=CC(F)=CC=C1F)C(O)=O",
+    "molecule": "(1S,2R)-2-[(2,5-difluorophenyl)carbamoyl]cyclopropanecarboxylic acid",
+    "iupac_name": "(1S,2R)-2-[(2,5-difluorophenyl)carbamoyl]cyclopropane-1-carboxylic acid",
+    "summary": null,
+    "weight": "241.1909",
+    "formula": "C11H9F2NO3",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB07808",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UBeta-lactamase",
+        "Actions": "Not Available",
+        "Organism": "Escherichia coli"
+      }
+    ]
+  },
+  {
+    "smiles": "OC[C@H]1C[C@@H](S\\C(=N/OS(O)(=O)=O)CC2=CC=CC=C2)[C@H](O)[C@@H](O)[C@@H]1O",
+    "molecule": "(1S,2S,3R,4S,5S)-2,3,4-TRIHYDROXY-5-(HYDROXYMETHYL)CYCLOHEXYL (1E)-2-PHENYL-N-(SULFOOXY)ETHANIMIDOTHIOATE",
+    "iupac_name": "{[(Z)-(2-phenyl-1-{[(1R,2R,3S,4R,5R)-2,3,4-trihydroxy-5-(hydroxymethyl)cyclohexyl]sulfanyl}ethylidene)amino]oxy}sulfonic acid",
+    "summary": null,
+    "weight": "407.459",
+    "formula": "C15H21NO8S2",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB04659",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "ULactase-phlorizin hydrolase",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "[H][C@@]1(O)C(CO)=C[C@@]([H])(NCCCCCCCC)[C@]([H])(O)[C@@]1([H])O",
+    "molecule": "(1S,2S,3R,6R)-4-(hydroxymethyl)-6-(octylamino)cyclohex-4-ene-1,2,3-triol",
+    "iupac_name": "(1S,2S,3R,6R)-4-(hydroxymethyl)-6-(octylamino)cyclohex-4-ene-1,2,3-triol",
+    "summary": null,
+    "weight": "287.3951",
+    "formula": "C15H29NO4",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB08321",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UAlpha-mannosidase 2",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "[H][C@]1(O)C[C@]([H])(CC[C@]1([H])C1=CC=C(C=C1)C(=O)NCCCC(O)=O)C1=CC=CC=C1",
+    "molecule": "(1S,2S,5S)2-(4-GLUTARIDYLBENZYL)-5-PHENYL-1-CYCLOHEXANOL",
+    "iupac_name": "4-({4-[(1R,2S,4S)-2-hydroxy-4-phenylcyclohexyl]phenyl}formamido)butanoic acid",
+    "summary": null,
+    "weight": "381.4648",
+    "formula": "C23H27NO4",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB07909",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UUncharacterized protein",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      },
+      {
+        "Target": "UIg gamma-1 chain C region",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      },
+      {
+        "Target": "UIg kappa chain C region",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "[H][C@](C)(O)[C@]([H])(N)C1=NC=CS1",
+    "molecule": "(1s,2s)-1-Amino-1-(1,3-Thiazol-2-Yl)Propan-2-Ol",
+    "iupac_name": "(1S,2R)-1-amino-1-(1,3-thiazol-2-yl)propan-2-ol",
+    "summary": null,
+    "weight": "158.221",
+    "formula": "C6H10N2OS",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB03724",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": []
+  },
+  {
+    "smiles": "[H][C@]1(C)CC[C@]2([H])C(=C[C@@]3([H])CC(C)(C)C[C@@]123)C(O)=O",
+    "molecule": "(1S,3aS,5aR,8aS)-1,7,7-trimethyl-1,2,3,3a,5a,6,7,8-octahydrocyclopenta[c]pentalene-4-carboxylic acid",
+    "iupac_name": "(1S,2S,5S,8R)-2,10,10-trimethyltricyclo[6.3.0.0^{1,5}]undec-6-ene-6-carboxylic acid",
+    "summary": null,
+    "weight": "234.334",
+    "formula": "C15H22O2",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB06903",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "U1-deoxypentalenic acid 11-beta-hydroxylase",
+        "Actions": "Not Available",
+        "Organism": "Streptomyces avermitilis (strain ATCC 31267 / DSM 46492 / JCM 5070 / NCIMB 12804 / NRRL 8165 / MA-4680)"
+      }
+    ]
+  },
+  {
+    "smiles": "O[C@H]1[C@H](OP(O)(O)=O)[C@@H](OP(O)(O)=O)[C@@H](O)[C@@H](OP(O)(O)=O)[C@@H]1OP(O)(O)=O",
+    "molecule": "(1s,3r,4r,6s)-1,3,4,6-Tetrapkisphosphate",
+    "iupac_name": "{[(1R,2s,3S,4S,5r,6R)-2,5-dihydroxy-3,4,6-tris(phosphonooxy)cyclohexyl]oxy}phosphonic acid",
+    "summary": null,
+    "weight": "500.0755",
+    "formula": "C6H16O18P4",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB04300",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": []
+  },
+  {
+    "smiles": "[H][C@@]12C[C@@]3([H])C[C@@](C1)(C[C@@]([H])(C2)[C@@]3([H])NC(=O)C(C)(C)OC1=CC=C(OC)C=C1)C(N)=O",
+    "molecule": "(1S,3R,4S,5S,7S)-4-{[2-(4-METHOXYPHENOXY)-2-METHYLPROPANOYL]AMINO}ADAMANTANE-1-CARBOXAMIDE",
+    "iupac_name": "(1s,3R,4s,5S,7s)-4-[2-(4-methoxyphenoxy)-2-methylpropanamido]adamantane-1-carboxamide",
+    "summary": null,
+    "weight": "386.4846",
+    "formula": "C22H30N2O4",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB08280",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UCorticosteroid 11-beta-dehydrogenase isozyme 1",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "[H][C@@]1(C[C@@]11C[C@]([H])(NC1=O)C1=CC=C(OCC2=CC(=NC3=C2C=CC=C3)C2=CC=CC=C2)C=C1)C(O)=O",
+    "molecule": "(1S,3R,6S)-4-oxo-6-{4-[(2-phenylquinolin-4-yl)methoxy]phenyl}-5-azaspiro[2.4]heptane-1-carboxylic acid",
+    "iupac_name": "(1S,3R,6S)-4-oxo-6-{4-[(2-phenylquinolin-4-yl)methoxy]phenyl}-5-azaspiro[2.4]heptane-1-carboxylic acid",
+    "summary": null,
+    "weight": "464.5119",
+    "formula": "C29H24N2O4",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB07189",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UDisintegrin and metalloproteinase domain-containing protein 17",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "[H][C@@](N)(C(=O)N1[C@@]2([H])C[C@@]2([H])C[C@@]1([H])C#N)[C@]12C[C@@]3([H])C[C@]([H])(C[C@](O)(C3)C1)C2",
+    "molecule": "(1S,3S,5S)-2-{(2S)-2-amino-2-[(1R,3S,5R,7S)-3-hydroxytricyclo[3.3.1.1~3,7~]dec-1-yl]acetyl}-2-azabicyclo[3.1.0]hexane-3-carbonitrile",
+    "iupac_name": "(1S,3S,5S)-2-[(2S)-2-amino-2-[(1r,3R,5R,7S)-3-hydroxyadamantan-1-yl]acetyl]-2-azabicyclo[3.1.0]hexane-3-carbonitrile",
+    "summary": null,
+    "weight": "315.41",
+    "formula": "C18H25N3O2",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB07465",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UDipeptidyl peptidase 4",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "[H][C@](CC)(C=O)[C@@]1([H])NC(C(O)=O)=C2[C@@]1([H])CCC[C@@]2([H])OCCCC",
+    "molecule": "(1S,4R,7AR)-4-BUTOXY-1-[(1R)-1-FORMYLPROPYL]-2,4,5,6,7,7A-HEXAHYDRO-1H-ISOINDOLE-3-CARBOXYLIC ACID",
+    "iupac_name": "(1S,4R,7aR)-4-butoxy-1-[(2R)-1-oxobutan-2-yl]-2,4,5,6,7,7a-hexahydro-1H-isoindole-3-carboxylic acid",
+    "summary": null,
+    "weight": "309.4006",
+    "formula": "C17H27NO4",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB08109",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UBeta-lactamase",
+        "Actions": "Not Available",
+        "Organism": "Enterobacter cloacae"
+      }
+    ]
+  },
+  {
+    "smiles": "[H][C@]12CC[C@]([H])(C3=C(C=CC=C13)C(F)(F)F)[C@@]2([H])N",
+    "molecule": "(1S,4R,9S)-5-(trifluoromethyl)-1,2,3,4-tetrahydro-1,4-methanonaphthalen-9-amine",
+    "iupac_name": "(1R,8S,11S)-3-(trifluoromethyl)tricyclo[6.2.1.0^{2,7}]undeca-2,4,6-trien-11-amine",
+    "summary": null,
+    "weight": "227.2256",
+    "formula": "C12H12F3N",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB08128",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UPhenylethanolamine N-methyltransferase",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "[H][C@@]1(O)C[C@@](O)(C=C(C2=CC=CC(SC3=CC=CC=C3)=C2)[C@@]1([H])O)C(O)=O",
+    "molecule": "(1S,4S,5S)-1,4,5-TRIHYDROXY-3-[3-(PHENYLTHIO)PHENYL]CYCLOHEX-2-ENE-1-CARBOXYLIC ACID",
+    "iupac_name": "(1R,4R,5R)-1,4,5-trihydroxy-3-[3-(phenylsulfanyl)phenyl]cyclohex-2-ene-1-carboxylic acid",
+    "summary": null,
+    "weight": "358.408",
+    "formula": "C19H18O5S",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB08485",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "U3-dehydroquinate dehydratase",
+        "Actions": "Not Available",
+        "Organism": "Streptomyces coelicolor (strain ATCC BAA-471 / A3(2) / M145)"
+      }
+    ]
+  },
+  {
+    "smiles": "[H][C@]12CN(C[C@]([H])(O1)[C@@]([H])(O2)C(=O)NCC1=CC=C(C=C1)C1=CC=CC=C1)C(=O)NO",
+    "molecule": "(1S,5S,7R)-N~7~-(BIPHENYL-4-YLMETHYL)-N~3~-HYDROXY-6,8-DIOXA-3-AZABICYCLO[3.2.1]OCTANE-3,7-DICARBOXAMIDE",
+    "iupac_name": "(1S,5S,7R)-N7-({[1,1'-biphenyl]-4-yl}methyl)-N3-hydroxy-6,8-dioxa-3-azabicyclo[3.2.1]octane-3,7-dicarboxamide",
+    "summary": null,
+    "weight": "383.3978",
+    "formula": "C20H21N3O5",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB07026",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UMacrophage metalloelastase",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "[H][C@]1(O)CC(=O)O[C@@]([H])(CC[C@@]2([H])[C@@]([H])(C)C=CC3=CCC[C@]([H])(O)[C@]23[H])C1",
+    "molecule": "(1S,7S,8S,8AR)-1,2,3,7,8,8A-HEXAHYDRO-7-METHYL-8-[2-[(2R,4R)-TETRAHYDRO-4-HY DROXY-6-OXO-2H-PYRAN-2-YL]ETHYL]-1-NAPHTHALENOL",
+    "iupac_name": "(4R,6S)-6-{2-[(1S,2S,8S,8aR)-8-hydroxy-2-methyl-1,2,6,7,8,8a-hexahydronaphthalen-1-yl]ethyl}-4-hydroxyoxan-2-one",
+    "summary": null,
+    "weight": "306.3966",
+    "formula": "C18H26O4",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB08224",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "ULiver carboxylesterase 1",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "[H][C@@](N)(COC1=C2C=CC(=NC2=CN=C1)C1=CC=NC=C1)CC1=CNC2=C1C=CC=C2",
+    "molecule": "(1S)-1-(1H-INDOL-3-YLMETHYL)-2-(2-PYRIDIN-4-YL-[1,7]NAPHTYRIDIN-5-YLOXY)-EHYLAMINE",
+    "iupac_name": "(2S)-1-(1H-indol-3-yl)-3-{[2-(pyridin-4-yl)-1,7-naphthyridin-5-yl]oxy}propan-2-amine",
+    "summary": null,
+    "weight": "395.4564",
+    "formula": "C24H21N5O",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB07204",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UcAMP-dependent protein kinase inhibitor alpha",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      },
+      {
+        "Target": "UcAMP-dependent protein kinase catalytic subunit alpha",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "[H][C@@](OC(C)=O)(C(=O)NC1=CC=CC2=C1C(=O)C(=O)NC2=O)C1=CC=CC(Cl)=C1",
+    "molecule": "(1S)-1-(3-chlorophenyl)-2-oxo-2-[(1,3,4-trioxo-1,2,3,4-tetrahydroisoquinolin-5-yl)amino]ethyl acetate",
+    "iupac_name": "(S)-(3-chlorophenyl)[(1,3,4-trioxo-1,2,3,4-tetrahydroisoquinolin-5-yl)carbamoyl]methyl acetate",
+    "summary": null,
+    "weight": "400.769",
+    "formula": "C19H13ClN2O6",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB08498",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UCaspase-3",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "[H][C@](CC)(COC1=CC=CC=C1)O[P@](C)(Cl)=O",
+    "molecule": "(1S)-1-(PHENOXYMETHYL)PROPYL METHYLPHOSPHONOCHLORIDOATE",
+    "iupac_name": "(R)-((2S)-1-phenoxybutan-2-yl methylphosphonochloridate)",
+    "summary": null,
+    "weight": "262.67",
+    "formula": "C11H16ClO3P",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB08419",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "ULipase",
+        "Actions": "Not Available",
+        "Organism": "Pseudomonas cepacia"
+      }
+    ]
+  },
+  {
+    "smiles": "COC1=CC=C(C=C1)C1=CC=C(C=C1)S(=O)(=O)N[C@H](C(C)C)P(O)(O)=O",
+    "molecule": "(1S)-1-{[(4'-methoxy-1,1'-biphenyl-4-yl)sulfonyl]amino}-2-methylpropylphosphonic acid",
+    "iupac_name": "[(1S)-1-{4'-methoxy-[1,1'-biphenyl]-4-sulfonamido}-2-methylpropyl]phosphonic acid",
+    "summary": null,
+    "weight": "399.398",
+    "formula": "C17H22NO6PS",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB07713",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UNeutrophil collagenase",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "[H][C@](N)(O)CC1=CNC2=CC=CC=C12",
+    "molecule": "(1S)-1-AMINO-2-(1H-INDOL-3-YL)ETHANOL",
+    "iupac_name": "(1S)-1-amino-2-(1H-indol-3-yl)ethan-1-ol",
+    "summary": null,
+    "weight": "176.2151",
+    "formula": "C10H12N2O",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB08649",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UAralkylamine dehydrogenase light chain",
+        "Actions": "Not Available",
+        "Organism": "Alcaligenes faecalis"
+      },
+      {
+        "Target": "UAralkylamine dehydrogenase heavy chain",
+        "Actions": "Not Available",
+        "Organism": "Alcaligenes faecalis"
+      }
+    ]
+  },
+  {
+    "smiles": "CC[C@@H](C)C1=C(O)C2=C(O)C3=C(C[C@H](CC3=O)[C@H](OC)C(=O)[C@@H](O)[C@@H](C)O)C=C2C=C1",
+    "molecule": "(1S)-1-C-{(2R)-6-[(2R)-2-Butanyl]-5,10-dihydroxy-4-oxo-1,2,3,4-tetrahydro-2-anthracenyl}-5-deoxy-1-O-methyl-D-xylulose",
+    "iupac_name": "(3R)-7-[(2R)-butan-2-yl]-3-[(1S,3S,4R)-3,4-dihydroxy-1-methoxy-2-oxopentyl]-8,9-dihydroxy-1,2,3,4-tetrahydroanthracen-1-one",
+    "summary": null,
+    "weight": "430.4908",
+    "formula": "C24H30O7",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB04240",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [
+      "1,2-HYDRO-1-OXY-3,4-HYDRO-3-(1-METHOXY-2-OXY-3,4-DIHYDROXYPENTYL)-8,9-DIHYDROXY-7-(SEC-BUTYL)-ANTHRACENE"
+    ],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": []
+  },
+  {
+    "smiles": "[H][C@](N)(C1CC1)C(=O)N1CC(=C[C@@]1([H])C1=CC=CC=C1)C1=CC(F)=CC=C1F",
+    "molecule": "(1S)-1-CYCLOPROPYL-2-[(2S)-4-(2,5-DIFLUOROPHENYL)-2-PHENYL-2,5-DIHYDRO-1H-PYRROL-1-YL]-2-OXOETHANAMINE",
+    "iupac_name": "(2S)-2-amino-2-cyclopropyl-1-[(2S)-4-(2,5-difluorophenyl)-2-phenyl-2,5-dihydro-1H-pyrrol-1-yl]ethan-1-one",
+    "summary": null,
+    "weight": "354.3931",
+    "formula": "C21H20F2N2O",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB08244",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UKinesin-like protein KIF11",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "[H]N(C(C)=O)C1=CC=C(CP([O-])(=O)O[C@@H](C)C2=CC=CC=C2)C=C1",
+    "molecule": "(1S)-1-Phenylethyl (4-acetamidobenzyl)phosphonate",
+    "iupac_name": "(1S)-1-phenylethyl [(4-acetamidophenyl)methyl]phosphonate",
+    "summary": null,
+    "weight": "332.3108",
+    "formula": "C17H19NO4P",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB08545",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UHepatitis B virus receptor binding protein",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "[H][C@@]1(O)CC2=C(C=CC3=C2C2=C(C=CC=C2)C=C3)[C@@]([H])(O)[C@]1([H])O",
+    "molecule": "(1S)-1,2,3,4-TETRAHYDRO-BENZO[C]PHENANTHRENE-2,3,4-TRIOL",
+    "iupac_name": "(2R,3R,4R)-1H,2H,3H,4H-benzo[c]phenanthrene-2,3,4-triol",
+    "summary": null,
+    "weight": "280.3178",
+    "formula": "C18H16O3",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB07479",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UDNA polymerase beta",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "[H][C@@](N)(COC1=CN=CC(\\C=C\\C2=CC=NC=C2)=C1)CC1=CNC2=C1C=CC=C2",
+    "molecule": "(1S)-2-(1H-INDOL-3-YL)-1-[({5-[(E)-2-PYRIDIN-4-YLVINYL]PYRIDIN-3-YL}OXY)METHYL]ETHYLAMINE",
+    "iupac_name": "(2S)-1-(1H-indol-3-yl)-3-({5-[(1E)-2-(pyridin-4-yl)ethenyl]pyridin-3-yl}oxy)propan-2-amine",
+    "summary": null,
+    "weight": "370.447",
+    "formula": "C23H22N4O",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB07107",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UcAMP-dependent protein kinase catalytic subunit alpha",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      },
+      {
+        "Target": "UcAMP-dependent protein kinase inhibitor alpha",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "[H][C@](N)(C1CCCC1)C(=O)N1[C@]([H])(CN)CC[C@]1([H])C#C",
+    "molecule": "(1S)-2-[(2S,5R)-2-(AMINOMETHYL)-5-ETHYNYLPYRROLIDIN-1-YL]-1-CYCLOPENTYL-2-OXOETHANAMINE",
+    "iupac_name": "(2S)-2-amino-1-[(2S,5R)-2-(aminomethyl)-5-ethynylpyrrolidin-1-yl]-2-cyclopentylethan-1-one",
+    "summary": null,
+    "weight": "249.3519",
+    "formula": "C14H23N3O",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB07356",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UDipeptidyl peptidase 4",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "[H][C@](N)(C1CCCC1)C(=O)N1[C@]([H])(CN)CC[C@]1([H])C#CC",
+    "molecule": "(1S)-2-[(2S,5R)-2-(AMINOMETHYL)-5-PROP-1-YN-1-YLPYRROLIDIN-1-YL]-1-CYCLOPENTYL-2-OXOETHANAMINE",
+    "iupac_name": "(2S)-2-amino-1-[(2S,5R)-2-(aminomethyl)-5-(prop-1-yn-1-yl)pyrrolidin-1-yl]-2-cyclopentylethan-1-one",
+    "summary": null,
+    "weight": "263.3785",
+    "formula": "C15H25N3O",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB06880",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UDipeptidyl peptidase 4",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "[H][C@](O)(CO)CO[P@@]([O-])(=O)OC[C@@]([H])(COC(=O)CCCC)OC(=O)CCCCCCC",
+    "molecule": "(1S)-2-{[{[(2S)-2,3-DIHYDROXYPROPYL]OXY}(HYDROXY)PHOSPHORYL]OXY}-1-[(PENTANOYLOXY)METHYL]ETHYL OCTANOATE",
+    "iupac_name": "(2R)-1-{[(2S)-2,3-dihydroxypropyl phosphonato]oxy}-3-(pentanoyloxy)propan-2-yl octanoate",
+    "summary": null,
+    "weight": "455.4569",
+    "formula": "C19H36O10P",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB07349",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "URespiratory nitrate reductase 1 alpha chain",
+        "Actions": "Not Available",
+        "Organism": "Escherichia coli (strain K12)"
+      },
+      {
+        "Target": "URespiratory nitrate reductase 1 beta chain",
+        "Actions": "Not Available",
+        "Organism": "Escherichia coli (strain K12)"
+      },
+      {
+        "Target": "URespiratory nitrate reductase 1 gamma chain",
+        "Actions": "Not Available",
+        "Organism": "Escherichia coli (strain K12)"
+      },
+      {
+        "Target": "UAquaporin Z",
+        "Actions": "Not Available",
+        "Organism": "Escherichia coli (strain K12)"
+      }
+    ]
+  },
+  {
+    "smiles": "[H][C@@](OC(C)=O)(C(=O)NC1=CC=CC2=C1C(=O)C(=O)NC2=O)C1=CC=CC=C1",
+    "molecule": "(1S)-2-oxo-1-phenyl-2-[(1,3,4-trioxo-1,2,3,4-tetrahydroisoquinolin-5-yl)amino]ethyl acetate",
+    "iupac_name": "(S)-phenyl[(1,3,4-trioxo-1,2,3,4-tetrahydroisoquinolin-5-yl)carbamoyl]methyl acetate",
+    "summary": null,
+    "weight": "366.3243",
+    "formula": "C19H14N2O6",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB08497",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UCaspase-3",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "CCCCCCP(O)(=O)O[C@H]1C[C@@H](C)CC[C@@H]1C(C)C",
+    "molecule": "(1S)-menthyl hexyl phosphonate group",
+    "iupac_name": "hexyl({[(1S,2R,5S)-5-methyl-2-(propan-2-yl)cyclohexyl]oxy})phosphinic acid",
+    "summary": null,
+    "weight": "304.4052",
+    "formula": "C16H33O3P",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB08201",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UCholinesterase",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "CCCC(=O)C(\\O)=C\\OP(O)(O)=O",
+    "molecule": "(1Z)-2-HYDROXY-3-OXOHEX-1-EN-1-YL DIHYDROGEN PHOSPHATE",
+    "iupac_name": "{[(1Z)-2-hydroxy-3-oxohex-1-en-1-yl]oxy}phosphonic acid",
+    "summary": null,
+    "weight": "210.1217",
+    "formula": "C6H11O6P",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB06881",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "U2,3-diketo-5-methylthiopentyl-1-phosphate enolase",
+        "Actions": "Not Available",
+        "Organism": "Geobacillus kaustophilus (strain HTA426)"
+      }
+    ]
+  },
+  {
+    "smiles": "[H]N=C([H])C(=C)CCC1=CC=C(F)C=C1",
+    "molecule": "(1Z)-4-(4-FLUOROPHENYL)-2-METHYLIDENEBUTAN-1-IMINE",
+    "iupac_name": "1-(3-carboximidoylbut-3-en-1-yl)-4-fluorobenzene",
+    "summary": null,
+    "weight": "177.2181",
+    "formula": "C11H12FN",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB08176",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UAmine oxidase [flavin-containing] B",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "OC(=O)COC1=CC(Cl)=CC=C1C(=O)NCC1=C(F)C=C(Br)C=C1",
+    "molecule": "(2-{[(4-BROMO-2-FLUOROBENZYL)AMINO]CARBONYL}-5-CHLOROPHENOXY)ACETIC ACID",
+    "iupac_name": "2-(2-{[(4-bromo-2-fluorophenyl)methyl]carbamoyl}-5-chlorophenoxy)acetic acid",
+    "summary": null,
+    "weight": "416.626",
+    "formula": "C16H12BrClFNO4",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB07028",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UAldose reductase",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "NC1=NC=C(O1)C(=O)C1=CC(Br)=CC=C1",
+    "molecule": "(2-AMINO-1,3-OXAZOL-5-YL)-(3-BROMOPHENYL)METHANONE",
+    "iupac_name": "5-(3-bromobenzoyl)-1,3-oxazol-2-amine",
+    "summary": null,
+    "weight": "267.079",
+    "formula": "C10H7BrN2O2",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB08314",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UBiotin carboxylase",
+        "Actions": "Not Available",
+        "Organism": "Escherichia coli (strain K12)"
+      }
+    ]
+  },
+  {
+    "smiles": "[H][C@]12CC[C@]([H])(C1)[C@](N)(C(=O)C1=CC=CC=C1)[C@]2([H])C1=CC=CC=C1",
+    "molecule": "(2-AMINO-3-PHENYL-BICYCLO[2.2.1]HEPT-2-YL)-PHENYL-METHANONE",
+    "iupac_name": "(1R,2R,3S,4S)-2-benzoyl-3-phenylbicyclo[2.2.1]heptan-2-amine",
+    "summary": null,
+    "weight": "291.3868",
+    "formula": "C20H21NO",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB07883",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UIg gamma-1 chain C region",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "NC1=CC(C=O)=C(CC(=O)OCCBr)C=C1",
+    "molecule": "(2-BROMOETHYL)(2-'FORMYL-4'-AMINOPHENYL) ACETATE",
+    "iupac_name": "2-bromoethyl 2-(4-amino-2-formylphenyl)acetate",
+    "summary": null,
+    "weight": "286.122",
+    "formula": "C11H12BrNO3",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB07955",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UChymotrypsin-like elastase family member 1",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "CCCC1=CC2=C(NC(CC(N)=O)=C2)C(CC(O)=O)=C1",
+    "molecule": "(2-CARBAMOYLMETHYL-5-PROPYL-OCTAHYDRO-INDOL-7-YL)ACETIC ACID",
+    "iupac_name": "2-[2-(carbamoylmethyl)-5-propyl-1H-indol-7-yl]acetic acid",
+    "summary": null,
+    "weight": "274.315",
+    "formula": "C15H18N2O3",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB07958",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UGroup IIE secretory phospholipase A2",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "CCCCCCCCCCCC[P+](C)(C)CC(P(O)(O)=O)P(O)(O)=O",
+    "molecule": "(2,2-DIPHOSPHONOETHYL)(DODECYL)DIMETHYLPHOSPHONIUM",
+    "iupac_name": "[2-(dodecyldimethylphosphaniumyl)-1-phosphonoethyl]phosphonic acid",
+    "summary": null,
+    "weight": "419.3906",
+    "formula": "C16H38O6P3",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB07221",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UGeranylgeranyl pyrophosphate synthase",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "CC1=CC=CC(C)=C1OCC(O)=O",
+    "molecule": "(2,6-Dimethylphenoxy)acetic acid",
+    "iupac_name": "2-(2,6-dimethylphenoxy)acetic acid",
+    "summary": null,
+    "weight": "180.2005",
+    "formula": "C10H12O3",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB07634",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [
+      "(2,6-Xylyloxy) acetic acid"
+    ],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UGag-Pol polyprotein",
+        "Actions": "Not Available",
+        "Organism": "HIV-2"
+      }
+    ]
+  },
+  {
+    "smiles": "[H][C@@]12CCN(C1=O)C1=C3C=C(OC4=C(C=CC(CN5C=NC=C5CN2)=C4)C#N)C=CC3=CC=C1",
+    "molecule": "(20S)-19,20,21,22-TETRAHYDRO-19-OXO-5H-18,20-ETHANO-12,14-ETHENO-6,10-METHENO-18H-BENZ[D]IMIDAZO[4,3-K][1,6,9,12]OXATRIAZA-CYCLOOCTADECOSINE-9-CARBONITRILE",
+    "iupac_name": "(5R)-30-oxo-19-oxa-2,6,10,12-tetraazahexacyclo[18.6.2.1^{2,5}.1^{14,18}.0^{8,12}.0^{23,27}]triaconta-1(27),8,10,14(29),15,17,20(28),21,23,25-decaene-17-carbonitrile",
+    "summary": null,
+    "weight": "435.4772",
+    "formula": "C26H21N5O2",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB08674",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UProtein farnesyltransferase/geranylgeranyltransferase type-1 subunit alpha",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      },
+      {
+        "Target": "UProtein farnesyltransferase subunit beta",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "[H][C@]12CCN(C1=O)C1=CC=CC3=C1C=C(OC1([H])CC(CN4C=NC=C4CCN2)=CC[C@]1([H])C#N)C=C3",
+    "molecule": "(20S)-19,20,22,23-TETRAHYDRO-19-OXO-5H,21H-18,20-ETHANO-12,14-ETHENO-6,10-METHENOBENZ[D]IMIDAZO[4,3-L][1,6,9,13]OXATRIAZACYCLONOADECOSINE-9-CARBONITRILE",
+    "iupac_name": "(5S,18R)-31-oxo-20-oxa-2,6,11,13-tetraazahexacyclo[19.6.2.1^{2,5}.1^{15,19}.0^{9,13}.0^{24,28}]hentriaconta-1(27),9,11,15,21(29),22,24(28),25-octaene-18-carbonitrile",
+    "summary": null,
+    "weight": "453.5356",
+    "formula": "C27H27N5O2",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB08676",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UProtein farnesyltransferase/geranylgeranyltransferase type-1 subunit alpha",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      },
+      {
+        "Target": "UProtein farnesyltransferase subunit beta",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "[H][C@@]12CCCCN1C(=O)C(=O)C(C)(C)COC(=O)CCCCCCCCCCCOC2=O",
+    "molecule": "(21S)-1AZA-4,4-DIMETHYL-6,19-DIOXA-2,3,7,20-TETRAOXOBICYCLO[19.4.0] PENTACOSANE",
+    "iupac_name": "(24aS)-17,17-dimethyl-docosahydropyrido[2,1-c]1,9-dioxa-4-azacyclohenicosane-1,14,18,19-tetrone",
+    "summary": null,
+    "weight": "437.5696",
+    "formula": "C24H39NO6",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB08520",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UPeptidyl-prolyl cis-trans isomerase FKBP1A",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "[H]N1C(=O)\\C(C2=C1C=CC(=C2)S(=O)(=O)N1CCC(O)CC1)=C1/N([H])C2=CC=CC=C2[C@]1(C)O",
+    "molecule": "(2E,3S)-3-hydroxy-5'-[(4-hydroxypiperidin-1-yl)sulfonyl]-3-methyl-1,3-dihydro-2,3'-biindol-2'(1'H)-one",
+    "iupac_name": "(Z,3S)-3-hydroxy-5'-[(4-hydroxypiperidin-1-yl)sulfonyl]-3-methyl-1',2'-dihydro-1H,3H-[2,3'-biindolyliden]-2'-one",
+    "summary": null,
+    "weight": "441.5",
+    "formula": "C22H23N3O5S",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB03583",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UCyclin-dependent kinase 2",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "COC(C)(C)CCC[C@@](C)([H])C\\C=C\\C(\\C)=C\\C(O)=O",
+    "molecule": "(2E,4E)-11-METHOXY-3,7,11-TRIMETHYLDODECA-2,4-DIENOIC ACID",
+    "iupac_name": "(2E,4E,7S)-11-methoxy-3,7,11-trimethyldodeca-2,4-dienoic acid",
+    "summary": null,
+    "weight": "268.3917",
+    "formula": "C16H28O3",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB08175",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UNuclear receptor coactivator 2",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      },
+      {
+        "Target": "URetinoic acid receptor RXR-beta",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      },
+      {
+        "Target": "UOxysterols receptor LXR-alpha",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "OC(=O)C(\\O)=C/C=C/C(=O)C1=CC=CC=C1",
+    "molecule": "(2E,4E)-2-Hydroxy-6-oxo-6-phenyl-2,4-hexadienoic acid",
+    "iupac_name": "(2E,4E)-2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoic acid",
+    "summary": null,
+    "weight": "218.2054",
+    "formula": "C12H10O4",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB07915",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "U2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate hydrolase",
+        "Actions": "Not Available",
+        "Organism": "Burkholderia xenovorans (strain LB400)"
+      }
+    ]
+  },
+  {
+    "smiles": "[H][C@](O)(COC(=O)CCCCCCCCCCCCCCC)[C@@]([H])(O)C(\\O)=C(\\O)C(O)=O",
+    "molecule": "(2E,4R,5S)-2,3,4,5-TETRAHYDROXY-6-(PALMITOYLOXY)HEX-2-ENOIC ACID",
+    "iupac_name": "(2Z,4R,5S)-6-(hexadecanoyloxy)-2,3,4,5-tetrahydroxyhex-2-enoic acid",
+    "summary": null,
+    "weight": "432.5482",
+    "formula": "C22H40O8",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB08438",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UHyaluronate lyase",
+        "Actions": "Not Available",
+        "Organism": "Streptococcus pneumoniae serotype 4 (strain ATCC BAA-334 / TIGR4)"
+      }
+    ]
+  },
+  {
+    "smiles": "COC1=CC(O)=C(C=C1CC=C(C)C)C(=O)\\C=C\\C1=CC=C(O)C=C1",
+    "molecule": "(2E)-1-[2-hydroxy-4-methoxy-5-(3-methylbut-2-en-1-yl)phenyl]-3-(4-hydroxyphenyl)prop-2-en-1-one",
+    "iupac_name": "(2E)-1-[2-hydroxy-4-methoxy-5-(3-methylbut-2-en-1-yl)phenyl]-3-(4-hydroxyphenyl)prop-2-en-1-one",
+    "summary": null,
+    "weight": "338.397",
+    "formula": "C21H22O4",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB07500",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UGroup IIE secretory phospholipase A2",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "[H][C@@](CO\\N=C(/CCC(O)=O)C(O)=O)(NC(=O)COC1=CC=CC=C1)C(O)=O",
+    "molecule": "(2E)-2-({(2S)-2-CARBOXY-2-[(PHENOXYACETYL)AMINO]ETHOXY}IMINO)PENTANEDIOIC ACID",
+    "iupac_name": "(2E)-2-{[(2S)-2-carboxy-2-(2-phenoxyacetamido)ethoxy]imino}pentanedioic acid",
+    "summary": null,
+    "weight": "382.3221",
+    "formula": "C16H18N2O9",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB08401",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UPenicillin-binding protein 1B",
+        "Actions": "Not Available",
+        "Organism": "Streptococcus pneumoniae"
+      }
+    ]
+  },
+  {
+    "smiles": "CCCCCCC#CC1=CC=CC=C1\\C=C\\C(O)=O",
+    "molecule": "(2E)-3-(2-OCT-1-YN-1-YLPHENYL)ACRYLIC ACID",
+    "iupac_name": "(2E)-3-[2-(oct-1-yn-1-yl)phenyl]prop-2-enoic acid",
+    "summary": null,
+    "weight": "256.3395",
+    "formula": "C17H20O2",
+    "description": "Not Available",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB08492",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": "Not Available",
+    "pharmacodynamics": "Not Available",
+    "moa": [
+      {
+        "Target": "UArachidonate 15-lipoxygenase",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  }
+]

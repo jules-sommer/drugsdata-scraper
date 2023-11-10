@@ -1,0 +1,600 @@
+[
+  {
+    "smiles": "CC(=C)[C@@H]1CC[C@@](C)(C=C)[C@@H](C1)C(C)=C",
+    "molecule": "(-)-beta-Elemene",
+    "iupac_name": "",
+    "summary": null,
+    "weight": "204.357",
+    "formula": "C15H24",
+    "description": null,
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB18097",
+    "type": "Small Molecule",
+    "groups": "Investigational",
+    "synonyms": [
+      ".beta.-elemene",
+      "(-)-.beta.-elemene",
+      "(-)-B-elemene",
+      "(-)-beta-Elemene",
+      "Cyclohexane, 1-ethenyl-1-methyl-2,4-bis(1-methylethenyl)-, (1s,2s,4r)-",
+      "Elemene, (-)-.beta.-"
+    ],
+    "indication": null,
+    "pharmacodynamics": null,
+    "moa": []
+  },
+  {
+    "smiles": "[H]C(C)(O)COC(=O)O[C@]1([H])C[C@]([H])(C)CC[C@@]1([H])C(C)C",
+    "molecule": "(-)-menthol 1-propylene glycol carbonate",
+    "iupac_name": "1-[({[(1R,2S,5R)-5-methyl-2-(propan-2-yl)cyclohexyl]oxy}carbonyl)oxy]propan-2-ol",
+    "summary": null,
+    "weight": "258.358",
+    "formula": "C14H26O4",
+    "description": null,
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB14136",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [
+      "(-)-menthol (+/-)-1-propylene glycol carbonate",
+      "2-hydroxypropyl ((1R,2S,5R)-2-isopropyl-5-methyl-cyclohexyl) carbonate",
+      "Carbonic acid, 2-hydroxypropyl (1R,2S,5R)-5-methyl-2-(1-methylethyl)cyclohexyl ester",
+      "Fema no. 3806, 1-propylene glycol carbonate"
+    ],
+    "indication": null,
+    "pharmacodynamics": null,
+    "moa": []
+  },
+  {
+    "smiles": "OC(=O)CO\\N=C1/C2=CC=CCC2=N/C/1=C1\\C(=O)N=C2CC=CC=C12",
+    "molecule": "({[(3E)-2'-Oxo-2',7'-dihydro-2,3'-biindol-3(7H)-ylidene]amino}oxy)acetic acid",
+    "iupac_name": "2-({[(Z,3E)-2'-oxo-3,7-dihydro-2'H,7'H-[2,3'-biindolyliden]-3-ylidene]amino}oxy)acetic acid",
+    "summary": null,
+    "weight": "335.3135",
+    "formula": "C18H13N3O4",
+    "description": null,
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB07949",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": null,
+    "pharmacodynamics": null,
+    "moa": [
+      {
+        "Target": "UGlycogen phosphorylase, muscle form",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "CC[C@@H](C1=CC(NC(=O)CNC(=O)OC(C)(C)C)=CC=C1)C1=C(O)C2=CC=CC=C2OC1=O",
+    "molecule": "({3-[1-(4-Hydroxy-2-oxo-2H-chromen-3-yl)-propyl]-phenylcarbamoyl}-methyl)-carbamic acid tert-butyl ester",
+    "iupac_name": "tert-butyl N-[({3-[(1S)-1-(4-hydroxy-2-oxo-2H-chromen-3-yl)propyl]phenyl}carbamoyl)methyl]carbamate",
+    "summary": null,
+    "weight": "452.4996",
+    "formula": "C25H28N2O6",
+    "description": null,
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB08664",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [
+      "tert-butyl N-[({3-[(1S)-1-(4-hydroxy-2-oxo-2H-chromen-3-yl)propyl]phenyl}carbamoyl)methyl]carbamate"
+    ],
+    "indication": null,
+    "pharmacodynamics": null,
+    "moa": [
+      {
+        "Target": "UGag-Pol polyprotein",
+        "Actions": "Not Available",
+        "Organism": "HIV-2"
+      }
+    ]
+  },
+  {
+    "smiles": "C[C@H](O)CBr",
+    "molecule": "(+)-1-bromo-2-propanol",
+    "iupac_name": "(2S)-1-bromopropan-2-ol",
+    "summary": null,
+    "weight": "138.991",
+    "formula": "C3H7BrO",
+    "description": null,
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB03335",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [
+      "(S)-(+)-1-Bromo-2-propanol"
+    ],
+    "indication": null,
+    "pharmacodynamics": null,
+    "moa": [
+      {
+        "Target": "UHaloalkane dehalogenase",
+        "Actions": "Not Available",
+        "Organism": "Pseudomonas paucimobilis"
+      }
+    ]
+  },
+  {
+    "smiles": "C[C@H](C(O)=O)C1=CC=C(C=C1)C1=CC=CC=C1",
+    "molecule": "(+)-2-(4-biphenyl)propionic acid",
+    "iupac_name": "(2S)-2-{[1,1'-biphenyl]-4-yl}propanoic acid",
+    "summary": null,
+    "weight": "226.2705",
+    "formula": "C15H14O2",
+    "description": null,
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB02047",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [
+      "(2S)-2-(4-Biphenylyl)propanoic acid",
+      "2-(1,1'-biphenyl-4-yl)propanoic acid"
+    ],
+    "indication": null,
+    "pharmacodynamics": null,
+    "moa": [
+      {
+        "Target": "UProstaglandin G/H synthase 1",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "CC(C)[C@H]1CC[C@H](C)C[C@@H]1O",
+    "molecule": "(+)-menthol",
+    "iupac_name": "(1S,2R,5S)-5-methyl-2-(propan-2-yl)cyclohexan-1-ol",
+    "summary": null,
+    "weight": "156.269",
+    "formula": "C10H20O",
+    "description": null,
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB11344",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [
+      "(+)-(1S,2R,5S)-menthol",
+      "(+)-(1S,3S,4R)-menthol",
+      "(1S,2R,5S)-(+)-menthol",
+      "(1S,2R,5S)-menthol",
+      "D-menthol"
+    ],
+    "indication": null,
+    "pharmacodynamics": null,
+    "moa": []
+  },
+  {
+    "smiles": "CC(C)(O)[C@@H]1CC2=C(O1)C=C1OC(=O)C(=CC1=C2)C(C)(C)C=C",
+    "molecule": "(+)-Rutamarin alcohol",
+    "iupac_name": "(2S)-2-(2-hydroxypropan-2-yl)-6-(2-methylbut-3-en-2-yl)-2H,3H,7H-furo[3,2-g]chromen-7-one",
+    "summary": null,
+    "weight": "314.3756",
+    "formula": "C19H22O4",
+    "description": null,
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB02205",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [
+      "(+)-Chalepin"
+    ],
+    "indication": null,
+    "pharmacodynamics": null,
+    "moa": [
+      {
+        "Target": "UGlyceraldehyde-3-phosphate dehydrogenase, testis-specific",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      },
+      {
+        "Target": "UGlyceraldehyde-3-phosphate dehydrogenase, glycosomal",
+        "Actions": "Not Available",
+        "Organism": "Trypanosoma cruzi"
+      }
+    ]
+  },
+  {
+    "smiles": "COC1=CC2=C(C=C1)N(CC1=CC=CC=C1)C(C)=C2CC(O)=O",
+    "molecule": "(1-Benzyl-5-methoxy-2-methyl-1H-indol-3-yl)acetic acid",
+    "iupac_name": "2-(1-benzyl-5-methoxy-2-methyl-1H-indol-3-yl)acetic acid",
+    "summary": null,
+    "weight": "309.3591",
+    "formula": "C19H19NO3",
+    "description": null,
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB03121",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": null,
+    "pharmacodynamics": null,
+    "moa": [
+      {
+        "Target": "UPhospholipase A2, membrane associated",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "OC(CC1=CC=CC(=C1)C1=CC=C(C=C1)C1=CC=CC=C1)(P(O)(O)=O)P(O)(O)=O",
+    "molecule": "(1-HYDROXY-1-PHOSPHONO-2-[1,1';4',1'']TERPHENYL-3-YL-ETHYL)-PHOSPHONIC ACID",
+    "iupac_name": "(1-hydroxy-2-{4'-phenyl-[1,1'-biphenyl]-3-yl}-1-phosphonoethyl)phosphonic acid",
+    "summary": null,
+    "weight": "434.3161",
+    "formula": "C20H20O7P2",
+    "description": null,
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB07409",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": null,
+    "pharmacodynamics": null,
+    "moa": [
+      {
+        "Target": "UDitrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)",
+        "Actions": "Not Available",
+        "Organism": "Escherichia coli (strain K12)"
+      }
+    ]
+  },
+  {
+    "smiles": "ON1CCCC(C1=O)P(O)(O)=O",
+    "molecule": "(1-Hydroxy-2-oxopiperidin-3-yl)phosphonic acid",
+    "iupac_name": "(1-hydroxy-2-oxopiperidin-3-yl)phosphonic acid",
+    "summary": null,
+    "weight": "195.111",
+    "formula": "C5H10NO5P",
+    "description": null,
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB17108",
+    "type": "Small Molecule",
+    "groups": "Investigational",
+    "synonyms": [
+      "Phosphonic acid, p-(1-hydroxy-2-oxo-3-piperidinyl)-"
+    ],
+    "indication": null,
+    "pharmacodynamics": null,
+    "moa": []
+  },
+  {
+    "smiles": "CCCCCCC(O)(P(O)(O)=O)P(O)(O)=O",
+    "molecule": "(1-HYDROXYHEPTANE-1,1-DIYL)BIS(PHOSPHONIC ACID)",
+    "iupac_name": "(1-hydroxy-1-phosphonoheptyl)phosphonic acid",
+    "summary": null,
+    "weight": "276.1611",
+    "formula": "C7H18O7P2",
+    "description": null,
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB06830",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": null,
+    "pharmacodynamics": null,
+    "moa": [
+      {
+        "Target": "UGeranylgeranyl pyrophosphate synthase",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "CCCCCCCCC(O)(P(O)(O)=O)P(O)(O)=O",
+    "molecule": "(1-HYDROXYNONANE-1,1-DIYL)BIS(PHOSPHONIC ACID)",
+    "iupac_name": "(1-hydroxy-1-phosphonononyl)phosphonic acid",
+    "summary": null,
+    "weight": "304.2143",
+    "formula": "C9H22O7P2",
+    "description": null,
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB06931",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": null,
+    "pharmacodynamics": null,
+    "moa": [
+      {
+        "Target": "UGeranylgeranyl pyrophosphate synthase",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "CN1C=CN=C1C(=O)C1=C(C)C2=C(O1)C=CC=C2OCCCNCC1=CN=CC=C1",
+    "molecule": "(1-Methyl-1h-Imidazol-2-Yl)-(3-Methyl-4-{3-[(Pyridin-3-Ylmethyl)-Amino]-Propoxy}-Benzofuran-2-Yl)-Methanone",
+    "iupac_name": "(3-{[3-methyl-2-(1-methyl-1H-imidazole-2-carbonyl)-1-benzofuran-4-yl]oxy}propyl)[(pyridin-3-yl)methyl]amine",
+    "summary": null,
+    "weight": "404.4617",
+    "formula": "C23H24N4O3",
+    "description": null,
+    "categories": [
+      "Dietary Supplements / Supplements"
+    ],
+    "link": "https://go.drugbank.com/drugs/DB03062",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": null,
+    "pharmacodynamics": null,
+    "moa": [
+      {
+        "Target": "UGlycylpeptide N-tetradecanoyltransferase 1",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      },
+      {
+        "Target": "UGlycylpeptide N-tetradecanoyltransferase",
+        "Actions": "Not Available",
+        "Organism": "Yeast"
+      }
+    ]
+  },
+  {
+    "smiles": "[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])C([3H])C([3H])C2=CC(=O)C([3H])C([3H])[C@]12C",
+    "molecule": "(1,2,6,7-3H)Testosterone",
+    "iupac_name": "(1S,3aS,3bR,9aR,9bS,11aS)-1-hydroxy-9a,11a-dimethyl(4,5,8,9-3H4)-1H,2H,3H,3aH,3bH,4H,5H,7H,8H,9H,9aH,9bH,10H,11H,11aH-cyclopenta[a]phenanthren-7-one",
+    "summary": null,
+    "weight": "296.463",
+    "formula": "C19H28O2",
+    "description": null,
+    "categories": [
+      "Testosterone and derivatives"
+    ],
+    "link": "https://go.drugbank.com/drugs/DB14093",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [
+      "Testosterone, 1,2,6,7-H-3"
+    ],
+    "indication": null,
+    "pharmacodynamics": null,
+    "moa": []
+  },
+  {
+    "smiles": "NC1=NC=NC2=C1N=CN2[C@@H]1C=C[C@H](O)[C@H]1O",
+    "molecule": "(1'R,2'S)-9-(2-Hydroxy-3'-Keto-Cyclopenten-1-yl)Adenine",
+    "iupac_name": "(1S,2S,5R)-5-(6-amino-9H-purin-9-yl)cyclopent-3-ene-1,2-diol",
+    "summary": null,
+    "weight": "233.2266",
+    "formula": "C10H11N5O2",
+    "description": null,
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB03216",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": null,
+    "pharmacodynamics": null,
+    "moa": [
+      {
+        "Target": "UAdenosylhomocysteinase",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "CCCCC\\C=C/C=C/CCCCCCCCC(O)=O",
+    "molecule": "(10E,12Z)-octadecadienoic acid",
+    "iupac_name": "(10E,12Z)-octadeca-10,12-dienoic acid",
+    "summary": null,
+    "weight": "280.4455",
+    "formula": "C18H32O2",
+    "description": null,
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB04746",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [
+      "(10E,12Z)-octadeca-10,12-dienoic acid",
+      "(E,Z)-octadeca-10,12-dienoic acid",
+      "10-trans-12-cis-CLA",
+      "10-trans-12-cis-conjugated linoleic acid",
+      "10-trans-12-cis-linoleic acid",
+      "10-trans-12-cis-octadecadienoic acid",
+      "10,12-trans,cis-octadecanoic acid",
+      "C18:2, n-6,8 cis,trans"
+    ],
+    "indication": null,
+    "pharmacodynamics": null,
+    "moa": [
+      {
+        "Target": "UPutative aminooxidase",
+        "Actions": "Not Available",
+        "Organism": "Propionibacterium acnes"
+      }
+    ]
+  },
+  {
+    "smiles": "[H]N([H])C1=NC(=O)C2=C(C=CC(C[C@@H](C(O)=O)C3=CC=C(C=C3)C(=O)N([H])[C@@H](CCC(O)=O)C(O)=O)=C2)N1[H]",
+    "molecule": "(10R)-10-formyl-5,8,10-trideazafolic acid",
+    "iupac_name": "(2S)-2-({4-[(1R)-2-(2-amino-4-oxo-1,4-dihydroquinazolin-6-yl)-1-carboxyethyl]phenyl}formamido)pentanedioic acid",
+    "summary": null,
+    "weight": "482.4428",
+    "formula": "C23H22N4O8",
+    "description": null,
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB04264",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": null,
+    "pharmacodynamics": null,
+    "moa": [
+      {
+        "Target": "UPhosphoribosylglycinamide formyltransferase",
+        "Actions": "Not Available",
+        "Organism": "Escherichia coli (strain K12)"
+      }
+    ]
+  },
+  {
+    "smiles": "[H][C@@]1(C)CNC2=C(SC3=C2C2=C(C=C3)N=C(C=C2)C2=CN=C(C)C=C2)C(=O)N1",
+    "molecule": "(10R)-10-methyl-3-(6-methylpyridin-3-yl)-9,10,11,12-tetrahydro-8H-[1,4]diazepino[5',6':4,5]thieno[3,2-f]quinolin-8-one",
+    "iupac_name": "(15R)-15-methyl-5-(6-methylpyridin-3-yl)-11-thia-6,14,17-triazatetracyclo[8.8.0.0^{2,7}.0^{12,18}]octadeca-1(10),2(7),3,5,8,12(18)-hexaen-13-one",
+    "summary": null,
+    "weight": "374.459",
+    "formula": "C21H18N4OS",
+    "description": null,
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB07430",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": null,
+    "pharmacodynamics": null,
+    "moa": [
+      {
+        "Target": "UMAP kinase-activated protein kinase 2",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "[H][C@]1(N(C(C)=O)C2=CC=CC(O)=C2NC2=C1C(=O)CC(C)(C)C2)C1=C(Cl)C=C(Cl)C=C1",
+    "molecule": "(11R)-10-acetyl-11-(2,4-dichlorophenyl)-6-hydroxy-3,3-dimethyl-2,3,4,5,10,11-hexahydro-1H-dibenzo[b,e][1,4]diazepin-1-one",
+    "iupac_name": "(10R)-9-acetyl-10-(2,4-dichlorophenyl)-4-hydroxy-14,14-dimethyl-2,9-diazatricyclo[9.4.0.0^{3,8}]pentadeca-1(11),3,5,7-tetraen-12-one",
+    "summary": null,
+    "weight": "445.338",
+    "formula": "C23H22Cl2N2O3",
+    "description": null,
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB08747",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": null,
+    "pharmacodynamics": null,
+    "moa": [
+      {
+        "Target": "UGenome polyprotein",
+        "Actions": "Not Available",
+        "Organism": ""
+      }
+    ]
+  },
+  {
+    "smiles": "[H][C@]1(C2CCN(CC2)S(C)(=O)=O)C2=C(C=C(Cl)C=C2)C(=CC2=C1N=CC=C2)N1CCNCC1",
+    "molecule": "(11S)-8-CHLORO-11-[1-(METHYLSULFONYL)PIPERIDIN-4-YL]-6-PIPERAZIN-1-YL-11H-BENZO[5,6]CYCLOHEPTA[1,2-B]PYRIDINE",
+    "iupac_name": "(2S)-13-chloro-2-(1-methanesulfonylpiperidin-4-yl)-10-(piperazin-1-yl)-4-azatricyclo[9.4.0.0^{3,8}]pentadeca-1(11),3(8),4,6,9,12,14-heptaene",
+    "summary": null,
+    "weight": "473.031",
+    "formula": "C24H29ClN4O2S",
+    "description": null,
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB07216",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": null,
+    "pharmacodynamics": null,
+    "moa": [
+      {
+        "Target": "UProtein farnesyltransferase/geranylgeranyltransferase type-1 subunit alpha",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      },
+      {
+        "Target": "UProtein farnesyltransferase subunit beta",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "CC\\C=C/C\\C=C/C[C@@H](O)\\C=C\\C=C/C\\C=C/CCCC(O)=O",
+    "molecule": "(12R)-12-hydroxyeicosapentaenoic acid",
+    "iupac_name": "(5Z,8Z,10E,12R,14Z,17Z)-12-hydroxyicosa-5,8,10,14,17-pentaenoic acid",
+    "summary": null,
+    "weight": "318.457",
+    "formula": "C20H30O3",
+    "description": null,
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB15571",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": null,
+    "pharmacodynamics": null,
+    "moa": []
+  },
+  {
+    "smiles": "[H][C@]12CN(CCN3NC4=C(C=CC=C4C3=O)C3=NC4=C(NC3=O)C=CC=C4O1)[C@]([H])(C)C2",
+    "molecule": "(13R,15S)-13-METHYL-16-OXA-8,9,12,22,24-PENTAAZAHEXACYCLO[15.6.2.16,9.1,12,15.0,2,7.0,21,25]HEPTACOSA-1(24),2,4,6,17(25),18,20-HEPTAENE-23,26-DIONE",
+    "iupac_name": "(13R,15S)-13-methyl-16-oxa-8,9,12,22,24-pentaazahexacyclo[15.6.2.1^{6,9}.1^{12,15}.0^{2,7}.0^{21,25}]heptacosa-1(24),2(7),3,5,17,19,21(25)-heptaene-23,27-dione",
+    "summary": null,
+    "weight": "403.4338",
+    "formula": "C22H21N5O3",
+    "description": null,
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB06888",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": null,
+    "pharmacodynamics": null,
+    "moa": [
+      {
+        "Target": "UCyclin-dependent kinase 2",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "[H][C@]1(CC#N)CC[C@@]2([H])[C@]3([H])CCC4=CC(OS(N)(=O)=O)=C(OC)C=C4[C@@]3([H])CC[C@]12C",
+    "molecule": "(17beta)-17-(cyanomethyl)-2-methoxyestra-1(10),2,4-trien-3-yl sulfamate",
+    "iupac_name": "(1R,3aS,3bS,9bS,11aR)-1-(cyanomethyl)-8-methoxy-11a-methyl-1H,2H,3H,3aH,3bH,4H,5H,9bH,10H,11H,11aH-cyclopenta[a]phenanthren-7-yl sulfamate",
+    "summary": null,
+    "weight": "404.523",
+    "formula": "C21H28N2O4S",
+    "description": null,
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB07596",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": null,
+    "pharmacodynamics": null,
+    "moa": [
+      {
+        "Target": "UCarbonic anhydrase 2",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  },
+  {
+    "smiles": "O\\N=C1/CCC2=CC(=CC=C12)C1=CN(N=C1C1=CC=NC=C1)C1CCNCC1",
+    "molecule": "(1E)-5-(1-piperidin-4-yl-3-pyridin-4-yl-1H-pyrazol-4-yl)-2,3-dihydro-1H-inden-1-one oxime",
+    "iupac_name": "N-[(1E)-5-[1-(piperidin-4-yl)-3-(pyridin-4-yl)-1H-pyrazol-4-yl]-2,3-dihydro-1H-inden-1-ylidene]hydroxylamine",
+    "summary": null,
+    "weight": "373.4509",
+    "formula": "C22H23N5O",
+    "description": "(1E)-5-(1-piperidin-4-yl-3-pyridin-4-yl-1h-pyrazol-4-yl)-2,3-dihydro-1h-inden-1-one oxime is a solid. This compound belongs to the phenylpyrazoles. These are compounds containing a phenylpyrazole skeleton, which consists of a pyrazole bound to a phenyl group. It targets the protein serine/threonine-protein kinase B-raf.",
+    "categories": null,
+    "link": "https://go.drugbank.com/drugs/DB08553",
+    "type": "Small Molecule",
+    "groups": "Experimental",
+    "synonyms": [],
+    "indication": null,
+    "pharmacodynamics": null,
+    "moa": [
+      {
+        "Target": "USerine/threonine-protein kinase B-raf",
+        "Actions": "Not Available",
+        "Organism": "Humans"
+      }
+    ]
+  }
+]
